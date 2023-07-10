@@ -20,7 +20,7 @@
   --background: url('https://i.imgur.com/xWDLulW.png');
   --backgroundsize: cover;
   --backgroundposition: top center;
-  --backgroundblur: 8px;
+  --backgroundblur: 0px;
   --popout: var(--background);
   --popoutsize: var(--backgroundsize);
   --backgroundposition: top center;
