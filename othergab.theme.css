@@ -29,7 +29,7 @@
   --accentcolor: 63,81,181;
   --backdrop: rgb(0,0,0,0.85);
   --textshadow: transparent;
-  --transparencyalpha: 0.2;
+  --transparencyalpha: 0;
   --messagetransparency: 0.5;
   --guildchanneltransparency: 0.3;
   --chatinputtransparency: 0;
